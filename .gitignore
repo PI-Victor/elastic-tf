@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+.venv
+*.pyc
+*.iso
+elastic.tf
+terraform.tfst*
+crash.log
