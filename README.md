@@ -1,3 +1,3 @@
 # elastic-tf
-Elastic terraform is wrapper around terraform that also allows you to define
-resources.  
+Elastic terraform is a wrapper around terraform that also allows you to define
+and apply resources. 
